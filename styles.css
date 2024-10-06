@@ -173,3 +173,48 @@ nav ul li a:hover {
 .button-text.second {
     height: 20px;
 }
+/* Стили для нового текста */
+.new-text-container {
+    position: absolute;
+    top: 949px; 
+    left: 400px; 
+    right: 781px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+.new-text-line {
+    text-align: center; 
+}
+
+.new-line1 {
+    width: 230px; 
+    height: 33px; 
+    opacity: 1; 
+    font-family: 'Roboto', sans-serif; 
+    font-size: 24px; 
+    font-weight: 400; 
+    line-height: 32.4px; 
+    margin-right: 5px; 
+}
+
+.new-line2 {
+    width: 210px; 
+    height: 33px; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px; 
+    font-weight: 400; 
+    line-height: 32.4px; 
+    letter-spacing: 1px; 
+    margin-right: 5px; 
+}
+
+.new-line3 {
+    width: 140px; 
+    height: 33px; 
+    font-family: 'Roboto', sans-serif; 
+    font-size: 24px; 
+    font-weight: 400; 
+    line-height: 32.4px; 
+}
